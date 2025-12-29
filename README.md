@@ -28,7 +28,13 @@ This analysis is designed to answer the following key business questions:
 5. Are there meaningful city-level differences that influence retention and long-term value?
 
 ---
+## Tools Used
+- BigQuery (SQL)
+- Python (synthetic data generation)
+- GitHub
 
+---
+ 
 ## Data Overview
 The dataset used in this project is a high-fidelity synthetic dataset designed to closely mirror real food-delivery business behavior.
 
