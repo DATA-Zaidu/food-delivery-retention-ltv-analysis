@@ -19,5 +19,23 @@ continuously acquiring new users. Any decline in retention would have a
 disproportionate impact on topline revenue.
 
 
+## 2. Customer retention collapses early across all cohorts
+
+### Retention Pattern (Mature Cohorts)
+
+| Lifecycle Stage | Retention Range |
+|----------------|----------------|
+| Month 1        | ~50–55% |
+| Month 3        | ~12–17% |
+| Month 6+       | ~4–7% |
+
+**Key takeaway:**  
+- Nearly **half of customers churn after Month 1**
+- ~80–85% churn by Month 3
+
+**Why this matters:**  
+Strong first-order conversion is not translating into habit formation.
+
+---
 
 
