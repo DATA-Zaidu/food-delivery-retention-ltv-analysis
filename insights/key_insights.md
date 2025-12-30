@@ -50,10 +50,10 @@ Strong first-order conversion is not translating into habit formation.
 
 \*Recent cohorts are immature and excluded from long-term conclusions.
 
-Key takeaway:
+**Key takeaway**
 - LTV peaked early and stabilized at a lower level
 - Larger cohorts did not improve per-customer value
 
-Why this matters:
+**Why this matters:**  
 Revenue growth has been driven by acquisition volume rather than improved customer quality.
 
