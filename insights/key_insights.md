@@ -73,3 +73,24 @@ Revenue growth has been driven by acquisition volume rather than improved custom
 **Why this matters:**  
 While discounts increase conversion, they attract more price-sensitive users and dilute
 long-term unit economics at scale.
+
+
+
+## 5. Customer value varies significantly by city
+
+### City-wise 90-Day LTV
+
+| City      | Customers | Avg LTV (₹) |
+|-----------|----------|--------------|
+| Mumbai    | 6,498    | 2,059 |
+| Bangalore | 6,098    | 2,049 |
+| Delhi     | 6,431    | 2,021 |
+| Lucknow   | 3,550    | 1,554 |
+| Patna     | 3,171    | 1,535 |
+| Indore    | 3,452    | 1,533 |
+
+**Key takeaway**
+- Tier-1 cities generate ~30–35% higher LTV than Tier-2/3 cities
+
+**Why this matters**
+Uniform acquisition and discount strategies across geographies dilute blended LTV.
