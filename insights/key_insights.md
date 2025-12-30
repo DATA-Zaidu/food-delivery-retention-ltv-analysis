@@ -57,3 +57,19 @@ Strong first-order conversion is not translating into habit formation.
 **Why this matters:**  
 Revenue growth has been driven by acquisition volume rather than improved customer quality.
 
+
+## 4. First-order discounts materially reduce customer value
+
+### Discount vs Non-Discount Customers
+
+| Segment        | Customers    | Avg 90-Day LTV (₹) |
+|----------------|--------------|--------------------|
+| No Discount    | 13,105       | 2,040 |
+| Discount Used  | 16,095       | 1,728 |
+
+**Key takeaway**
+- Discount-acquired customers generate ~15–18% lower LTV
+
+**Why this matters:**  
+While discounts increase conversion, they attract more price-sensitive users and dilute
+long-term unit economics at scale.
