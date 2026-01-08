@@ -91,6 +91,7 @@ The final output of this project aims to provide leadership with:
 - Identification of cohorts and segments driving long-term value
 - Actionable recommendations to improve retention without sacrificing growth
 
+---
 
 **Key Insights**
 
