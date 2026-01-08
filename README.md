@@ -90,3 +90,19 @@ The final output of this project aims to provide leadership with:
 - Clear visibility into whether current growth is sustainable
 - Identification of cohorts and segments driving long-term value
 - Actionable recommendations to improve retention without sacrificing growth
+
+
+Key Insights
+
+Revenue is dominated by returning customers: Returning users contribute ~73% of total revenue, with per-customer revenue nearly 3× higher than new customers, making retention the primary revenue driver.
+
+Customer retention collapses early: Nearly 50% of customers churn after Month 1, and 80–85% churn by Month 3, indicating that first-order conversion is not translating into habit formation.
+
+Customer LTV declined as acquisition scaled: Average 90-day LTV peaked in early cohorts and stabilized at a lower level as acquisition volume increased, showing that growth came from scale, not improved customer quality.
+
+First-order discounts reduce long-term value: Discount-acquired customers generate ~15–18% lower 90-day LTV, suggesting discounts attract more price-sensitive users who do not convert into high-value customers.
+
+Customer value varies significantly by geography: Tier-1 cities generate 30–35% higher LTV than Tier-2/3 cities, indicating that uniform acquisition and discount strategies dilute blended LTV.
+
+Growth is volume-driven, not value-driven: Across cohorts, cities, and acquisition channels, revenue growth has been driven by customer volume rather than improvements in retention or per-customer value.
+
